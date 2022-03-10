@@ -1,2 +1,5 @@
-# DIO-o-primeiro-desafio.
-Desafio do primeiro repositório usando Git/GitHub.
+# DIO, o primeiro desafio.
+
+Repositório criado para o desafio de projeto de Git/GitHub feito pela DIO.
+
+##
